@@ -1,0 +1,14 @@
+C:\marlene\exaleo\obj\Debug\net7.0-windows\exaleo.GeneratedMSBuildEditorConfig.editorconfig
+C:\marlene\exaleo\obj\Debug\net7.0-windows\exaleo.AssemblyInfoInputs.cache
+C:\marlene\exaleo\obj\Debug\net7.0-windows\exaleo.AssemblyInfo.cs
+C:\marlene\exaleo\obj\Debug\net7.0-windows\exaleo.csproj.CoreCompileInputs.cache
+C:\marlene\exaleo\bin\Debug\net7.0-windows\exaleo.exe
+C:\marlene\exaleo\bin\Debug\net7.0-windows\exaleo.deps.json
+C:\marlene\exaleo\bin\Debug\net7.0-windows\exaleo.runtimeconfig.json
+C:\marlene\exaleo\bin\Debug\net7.0-windows\exaleo.dll
+C:\marlene\exaleo\bin\Debug\net7.0-windows\exaleo.pdb
+C:\marlene\exaleo\obj\Debug\net7.0-windows\exaleo.dll
+C:\marlene\exaleo\obj\Debug\net7.0-windows\refint\exaleo.dll
+C:\marlene\exaleo\obj\Debug\net7.0-windows\exaleo.pdb
+C:\marlene\exaleo\obj\Debug\net7.0-windows\exaleo.genruntimeconfig.cache
+C:\marlene\exaleo\obj\Debug\net7.0-windows\ref\exaleo.dll
